@@ -1,0 +1,9 @@
+obj/
+.vs/
+bin/
+
+
+# /*/Assemblies
+# /*/Assemblies/*.pdb
+# /.vscode
+# /Source
