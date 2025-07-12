@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<packageId>RunningBugs.MaximumAnimalDensity</packageId>
-	<name>Maximum Animal Density 最大动物密度</name>
+	<packageId>RunningBugs.MoreResponsivePlanet</packageId>
+	<name>More Responsive Planet 世界视角UI响应改进</name>
 	<author>RunningBugs</author>
 	<supportedVersions>
 		<li>1.6</li>
@@ -25,12 +25,11 @@
 	</loadAfter>
 
 	<description>
-If there are too many animals generated in the tiles, the game could be really laggy for old computers.
-This mod will limit the maximum number of animals generated in the tiles.
-Please go to mod settings to set the uniform upper limit.
+In RimWorld, the Planet/World view is very laggy, especially when there are many settlements, factions, landmarks in 1.6.
+This mod tries to improve the performance of the World view.
 
-如果地图上生成的动物数量过多，游戏可能会在老旧电脑上变得非常卡顿。
-本模组将限制地图上生成的动物数量上限。
-请前往模组设置界面设置统一的上限。
+
+环世界的世界视角在1.6版本中非常卡顿，尤其是当有很多定居点、派系和地标时。
+这个mod尝试改善世界视角的性能。
 	</description>
 </ModMetaData>
